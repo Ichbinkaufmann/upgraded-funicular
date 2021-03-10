@@ -1,5 +1,5 @@
-var token = "992623278:AAGUOJVsGbEsdx8YCBtF_72Gw8KsVVb3jqw";
-//var ssId = "1LT1VXu8CWBXkGrMS38PsB9JrZU-l5kb_jA-xwN6KJTI";
+var token = "TOKEN TELEGRAM";
+//var ssId = "TOKEN GOOGLE SPREADSHEET";
 //var expenseSheet =  SpreadsheetApp.openById(ssId).getSheetByName("Sheet1");
 //  var dApp = DriveApp;
 //  var folderIter = dApp.getFoldersByName("Test");
